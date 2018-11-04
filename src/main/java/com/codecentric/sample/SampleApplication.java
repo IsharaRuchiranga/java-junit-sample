@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan("de.codecentric.sample")
 public class SampleApplication {
     public static void main(String[] args) {
-        //1
+        //2
             SpringApplication.run(SampleApplication.class, args);
         }
 }
